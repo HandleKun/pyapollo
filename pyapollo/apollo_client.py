@@ -12,7 +12,7 @@ import time
 
 import requests
 import urllib
-from signature import authorization, signature
+from . import authorization, signature
 
 class ApolloClient(object):
     """
