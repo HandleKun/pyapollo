@@ -2,3 +2,8 @@
 build/
 *.pyc
 *.egg-info/
+.vscode
+env
+*.txt
+
+!requirements.txt
